@@ -33,7 +33,7 @@ const handleKey=(e)=>{
                 <input type="text" className='address'/>
             </div>
             {/* <button onClick={()=>{props.history.push('/')}}>Go to home</button> */}
-            <Link to='/'>Home</Link>
+            <Link to='/CoreJS_in_ReactJS'>Home</Link>
         </div>
     )
 };

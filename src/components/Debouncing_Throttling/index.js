@@ -44,7 +44,7 @@ const throttle = throttleMethod(expensive,1000);
             <h4>Throttling button example</h4>
             <button onClick={throttle}>Throttling</button>
             <p>open console and check output delay to understand</p>
-            <Link to='/'>Go to Home</Link>       
+            <Link to='/CoreJS_in_ReactJS'>Go to Home</Link>       
              </div>
         
         

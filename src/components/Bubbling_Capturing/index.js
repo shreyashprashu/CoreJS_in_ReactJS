@@ -52,7 +52,7 @@ const Bubbling_Capturing =()=>{
       </div>
       <p>Default is bubbling phase <br/> onClickCapture enables capturing <br/> e.stopPropagation() stops propagation</p>
       <p>Tweak the code and play around to understand</p>
-      <Link to='/'>Home</Link>
+      <Link to='/CoreJS_in_ReactJS'>Home</Link>
       </div>
     )
   };

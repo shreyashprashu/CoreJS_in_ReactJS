@@ -38,7 +38,7 @@ console.log(JSON.parse(objval));
            {userName}
            <h4 style={{cursor:'pointer'}}onClick={storeArrData}>click for Obj Storage-Hardcoded</h4>
            <h5 style={{cursor:'pointer'}} onClick={()=>localStorage.clear()}>clear browser local storage</h5>
-            <Link to='/'>Home</Link>
+            <Link to='/CoreJS_in_ReactJS'>Home</Link>
         </div>
     )
 }

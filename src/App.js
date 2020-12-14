@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Router>
       <Switch>
-        <Route path='/' exact component={Home}/>
+        <Route path='/CoreJS_in_ReactJS' exact component={Home}/>
         <Route path='/bubbling_capturing' exact component={Bubbling_Capturing}/>
         <Route path='/event_delegation' exact component={EventDelegation}/>
         <Route path='/debouncing_throttling' exact component={Debouncing_Throttling}/>
