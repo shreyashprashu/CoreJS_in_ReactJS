@@ -1,0 +1,18 @@
+.grandparent,.parent,.child{
+    color:white;
+    text-align: center;
+    min-width: 100px;
+    min-height: 100px;
+    margin:15px;
+    padding: 15px;
+    border:1px solid gray;
+    box-shadow: 3px 6px 8px lightslategray;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.bubbling{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+}
